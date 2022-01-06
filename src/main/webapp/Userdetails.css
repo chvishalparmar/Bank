@@ -1,0 +1,303 @@
+body{
+	background-image: url(img/Signin2.jpg);
+	 background-size:100%;
+}
+
+h1{
+	font-weight: bold;
+	font-family: 'Brush Script MT', cursive;
+	font-size: 30px;
+    display: in-block;
+    color: white;
+    text-align: center;
+     width: 100%;
+}
+
+header{
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+
+.result{
+	background-color: transparent;
+      text-align: center;
+      width:100%;
+     padding-top: 20px;  
+     padding-right: 20px;  
+     padding-bottom: 20px;  
+     padding-left: 20px; 
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+     border-radius: 8px;
+}
+
+.left {
+background-color:transparent;
+width: 20%;
+display: inline-block;
+height: auto;
+margin-left:10px;
+margin-top:30px;
+padding:50px 50px 50px 50px;
+margin-top:120px;
+float:left;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+     border-radius: 8px;
+}
+
+.right {
+background-color:transparent;
+width: 20%;
+display: inline-block;
+height: auto;
+margin-right:10px;
+margin-top:120px;
+padding:50px 50px 50px 50px;
+float:right;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+     border-radius: 8px;
+}
+
+button {
+  background-color: #20B2AA;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 8px;
+  font-size: 15px;
+ font-family: 'Trebuchet MS', sans-serif;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+}
+
+form {
+	font-weight: bold;
+	font-family: 'Brush Script MT', cursive;
+	font-size: 20px;
+    display: in-block;
+    color: white;
+    text-align: left;
+     width: 100%;
+}
+
+h2{
+	font-weight: bold;
+	text-align: left;
+	font-size: 25px;
+    display:in-block;
+    color: Green;
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+     width: auto;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+     border-radius: 8px;
+    
+}
+
+
+	.a{
+	background-color: transparent;
+      text-align: center;
+      width:20%;
+    margin-left: 550px;
+    margin-top: 80px;
+     padding-top: 50px;  
+     padding-right: 50px;  
+     padding-bottom: 50px;  
+     padding-left: 50px; 
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+     border-radius: 8px;
+}
+
+input[type=text], input[type=password], input[type=email]{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+   border-radius: 8px;
+}
+
+button {
+  background-color: #20B2AA;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 8px;
+  font-size: 15px;
+ font-family: 'Trebuchet MS', sans-serif;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+}
+
+footer
+{
+	display: block;
+	background-color:transparent;
+	text-align:center;
+	 padding: 14px 20px;
+	 margin-top: 450px;
+}
+
+nav a {
+	 font-weight: bold;
+    display:inline-block;
+    color: white;
+    text-align: center;
+    padding: 20px 80px 20px 80px;
+    margin-left:100px;
+    margin-top:10px;
+    margin-bottom:20px;
+   text-decoration: none;
+   background-color:transparent;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+   border-radius: 12px;
+   font-size: 22px;
+}
+
+nav .active{
+	color:#000000;
+	background-color:#FFFFFF;
+}
+
+a:hover {
+  background-color: white;
+  color: black;
+}
+
+.right2 {
+background-color:transparent;
+width: 20%;
+display: inline-block;
+height: 300px;
+margin-top:30px;
+margin-right:5px;
+padding:50px 50px 50px 50px;
+float:right;
+}
+
+.left2 {
+background-color:transparent;
+width: 20%;
+display: inline-block;
+height: 300px;
+margin-left:5px;
+margin-top:30px;
+padding:50px 50px 50px 50px;
+float:left;
+}
+
+
+.b{
+	background-color: transparent;
+      text-align: center;
+      width:20%;
+      float:left;
+    margin-left: 100px;
+    margin-top: 100px;
+     padding-top: 10px;  
+     padding-right: 50px;  
+     padding-bottom: 10px;  
+     padding-left: 50px; 
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+     border-radius: 8px;
+}
+
+.c{
+	background-color: transparent;
+      text-align: left;
+      width:30%;
+      margin-left:170px;
+     padding-top: 10px;  
+     padding-right: 50px;  
+     padding-bottom: 10px;  
+     padding-left: 50px; 
+     float:left;
+ 
+}
+
+.d{
+	background-color: transparent;
+      text-align:left;
+      width:30%;
+      float:right;
+      margin-right:170px;
+     padding-top: 10px;  
+     padding-right: 50px;  
+     padding-bottom: 10px;  
+     padding-left: 50px; 
+}
+
+.e{
+	background-color: transparent;
+      text-align:center;
+      width:50%;
+     float:right;
+     margin-right:350px;
+     padding-top: 20px;  
+     padding-right: 50px;  
+     padding-bottom: 50px;  
+     padding-left: 50px; 
+     
+}
+
+.center{
+	background-color: transparent;
+      text-align:left;
+      width:45%;
+     float:right;
+     margin-right:450px;
+     margin-top:20px;
+     padding-top: 20px;  
+     padding-right: 50px;  
+     padding-bottom: 50px;  
+     padding-left: 50px; 
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+     border-radius: 8px;
+}
+
+.centerforuser{
+	
+	background-color: transparent;
+      text-align:center;
+      width:25%;
+     float:left;
+     margin-left:70px;
+     margin-top:220px;
+     padding-top: 50px;  
+     padding-right: 50px;  
+     padding-bottom: 50px;  
+     padding-left: 50px; 
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+     border-radius: 8px;
+}
+
+.centerforac{
+background-color: transparent;
+      text-align: center;
+      width:30%;
+    margin-left: 500px;
+    margin-top: 200px;
+     padding-top: 50px;  
+     padding-right: 50px;  
+     padding-bottom: 50px;  
+     padding-left: 50px; 
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+     border-radius: 8px;
+}
+
